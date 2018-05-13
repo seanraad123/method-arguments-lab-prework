@@ -1,1 +1,3 @@
-def introduction(arg)
+def introduction(name)
+  
+  "Hi, my name is #{name}.\n"
